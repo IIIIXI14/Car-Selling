@@ -1,21 +1,70 @@
-Title: DigiCoderz -Car Rental Solution
+# Getting Started with Create React App
 
-Home:
-Welcome to DigiCoderz, the premier online platform for hassle-free car rentals. Our user-friendly website offers a seamless experience, allowing you to find and book the perfect car for your needs. Discover a world of convenience and flexibility as you embark on your journey with DigiCoderz.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-About:
-At DigiCoderz, we understand the importance of reliable transportation during your travels. With years of industry experience, we have built a reputation for delivering exceptional car rental services. Our mission is to provide customers with top-notch vehicles, competitive prices, and unparalleled customer service. We strive to make your car rental experience convenient, efficient, and enjoyable.
+## Available Scripts
 
-Services:
-DigiCoderz offers a comprehensive range of car rental services to cater to diverse needs. Whether you require a compact car for a quick city getaway or a spacious SUV for a family road trip, we have the perfect vehicle to suit your preferences. Our services include short-term and long-term rentals, airport transfers, luxury car rentals, and more. With a wide selection of well-maintained vehicles from leading manufacturers, we guarantee a comfortable and reliable ride.
+In the project directory, you can run:
 
-Pricing:
-At DigiCoderz, we believe in transparent pricing to ensure that you get the best value for your money. Our pricing page provides detailed information about rental rates, additional services, and any applicable fees. We offer competitive rates without compromising on quality, making it easier for you to plan your budget. With our flexible pricing options, you can choose the rental duration that suits your needs, whether it's for a few hours, days, or weeks.
+### `npm start`
 
-Cars:
-Explore our extensive fleet of vehicles that are meticulously maintained and regularly serviced to ensure a smooth and enjoyable ride. From compact cars and sedans to SUVs and luxury vehicles, we have a wide range of options to accommodate your preferences. Each vehicle is equipped with the latest features and technology to enhance your driving experience. Browse through our car catalog and find the perfect vehicle for your next adventure.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Login/Signup Page:
-Create an account with DigiCoderz to unlock a personalized experience tailored to your preferences. Our login/signup page allows you to securely access your account, manage your bookings, and save your preferences for future rentals. Signing up with DigiCoderz grants you exclusive benefits, including access to special discounts, loyalty programs, and priority customer support. Join our community of satisfied customers and enjoy a seamless car rental experience.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-With DigiCoderz, renting a car has never been easier. Experience convenience, reliability, and outstanding service by choosing DigiCoderz for your next adventure. Book your dream car today and let us take care of your transportation needs with utmost professionalism and efficiency.
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
